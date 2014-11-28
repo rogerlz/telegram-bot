@@ -3,6 +3,6 @@
     "google_api_key": "",
           "log_file": "/var/www/html/log.txt",
         "sh_enabled": true,
-        "sudo_users": [ 53282291, 32864838 ],
-	"allowed_chats": [ 53282291, 10499874, 5016070, 6423198, 2414768 ]
+        "sudo_users": [ 0, 1 ],
+	"allowed_chats": [ 0, 1 ]
 }
