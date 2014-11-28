@@ -1,8 +1,7 @@
 
 function run(msg, matches)
-  return 'Telegram Bot '.. VERSION .. [[ 
-  Checkout http://git.io/6jdjGg
-  GNU v2 license.]]
+  return 'Telegram Bot '.. VERSION .. [[ by roge
+  Github http://git.io/o7priw ]] 
 end
 
 return {

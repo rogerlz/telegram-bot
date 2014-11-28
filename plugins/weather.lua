@@ -25,13 +25,13 @@ function run(msg, matches)
     if string.len(matches[1]) > 2 then 
         city = matches[1]
     else
-        city = "Madrid,ES"
+        city = "Sao Paulo,BR"
     end
     return get_weather(city)
 end
 
 return {
-    description = "weather in that city (Madrid is default)", 
+    description = "weather in that city (Default: Sao Paulo)", 
     usage = "!weather (city)",
     patterns = {"^!weather(.*)$"}, 
     run = run 

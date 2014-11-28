@@ -16,20 +16,13 @@ Command list
 ```
 !9gag -> send random image from 9gag
 !echo [whatever] -> echoes the msg
-!eur [USD] -> EURUSD market value
 !uc3m -> Fortunes from Universidad Carlos III
-!get (value_name) -> retrieves variables saved with !set
-say hello to [name] -> Says hello to someone
 !help -> Lists all available commands
 !img [topic] -> search image with Google API and sends it
 !ping -> bot sends pong
-!rae [word] -> Spanish dictionary
-!set [value_name] [data] -> Set value
-!stats -> Numer of messages by user
 !time [area] -> Displays the local time in an area
-!tw [text] -> Sends a tweet
 !version -> Shows bot version
-!weather (city) -> weather in that city (Madrid is default)
+!weather (city) -> weather in that city (Sao Paulo is default)
 ```
 
 Installation

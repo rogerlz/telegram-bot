@@ -1,4 +1,3 @@
-
 function run(msg, matches)
   return matches[1]
 end
@@ -9,4 +8,3 @@ return {
     patterns = {"^!echo (.*)$"}, 
     run = run 
 }
-
